@@ -127,7 +127,7 @@ public class hw3 {
                 
             }
 	 };
-		frmPallaviVDhakne.setTitle("Pallavi V. Dhakne, Student ID: W1094415");
+		frmPallaviVDhakne.setTitle("Pallavi V. Dhakne, Student ID: WXXXXXXX");
 		frmPallaviVDhakne.setBounds(100, 100, 1200, 800);
 		frmPallaviVDhakne.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
 		frmPallaviVDhakne.addWindowListener(wl);
